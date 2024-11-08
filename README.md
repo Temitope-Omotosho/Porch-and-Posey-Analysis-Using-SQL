@@ -7,3 +7,5 @@ I used the Porch and Porsey database in this analysis and the schema shown below
 -	Sales rep
 -	Region
 
+A visual relationship between the tables is shown below  
+![Schema](https://github.com/Temitope-Omotosho/Porch-and-Posey-Analysis-Using-SQL/blob/master/porch%20and%20posey%20ERD.PNG)
